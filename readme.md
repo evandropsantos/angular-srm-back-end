@@ -6,3 +6,4 @@
     Introdução
         - Executar o comando $npm install, para baixar as dependencias do projeto
         - Executar comando npm start, para subir o servidor
+        - URL - http://localhost:3000/buttons
